@@ -1,0 +1,22 @@
+INFO     root:test_welcome_screen.py:12 ==================TESTCASE 1 STARTED==========================
+INFO     root:test_welcome_screen.py:14 ==================VERIFYING WELCOME SCREEN==========================
+INFO     root:test_welcome_screen.py:17 ==================BACKGROUND IMAGE PASSED==========================
+INFO     root:test_welcome_screen.py:25 ==================VERIFYING LOGO IMAGE==========================
+INFO     root:test_welcome_screen.py:29 ==================LOGO IMAGE PASSED==========================
+INFO     root:test_welcome_screen.py:37 ==================VERIFYING STREAM TITLE TEXT==========================
+INFO     root:test_welcome_screen.py:41 ==================STREAM TITLE TEXT FOUND==========================
+INFO     root:test_welcome_screen.py:48 ==================VERIFYING WELCOME DESCRIPTION==========================
+INFO     root:test_welcome_screen.py:52 ==================WELCOME DESCRIPTION DISPLAYED CORRECTLY==========================
+INFO     root:test_welcome_screen.py:61 ==================VERIFYING WELCOME PRICE==========================
+ERROR    root:test_welcome_screen.py:70 ==================WELCOME PRICE DETAILS FAILED==========================
+INFO     root:test_welcome_screen.py:92 ==================IN WELCOME SCREEN==========================
+INFO     root:test_welcome_screen.py:96 ==================NAVIGATING TO PLANS PICKER SCREEN==========================
+INFO     root:test_welcome_screen.py:100 ==================VERIFYING NAVIGATION TO PLANS PICKER SCREEN==========================
+ERROR    root:test_welcome_screen.py:106 ==================NAVIGATION FROM WELCOME TO PLANS PICKER FAILED==========================
+INFO     root:test_welcome_screen.py:117 ==================IN WELCOME SCREEN==========================
+INFO     root:test_welcome_screen.py:121 ==================NAVIGATING TO SIGN IN SCREEN==========================
+INFO     root:test_welcome_screen.py:127 ==================NAVIGATION TO SIGN IN SCREEN SUCCESSFUL==========================
+INFO     root:test_welcome_screen.py:141 ==================VERIFYING WELCOME SCREEN==========================
+INFO     root:test_welcome_screen.py:144 ==================IN WELCOME SCREEN==========================
+INFO     root:test_welcome_screen.py:151 ==================NAVIGATING BACK FROM WELCOME SCREEN==========================
+INFO     root:test_welcome_screen.py:153 ==================APP EXITED==========================

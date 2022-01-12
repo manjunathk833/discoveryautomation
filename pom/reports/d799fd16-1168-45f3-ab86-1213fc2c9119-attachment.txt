@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_welcome_screen.py:92 ==================IN WELCOME SCREEN==========================
+[32mINFO    [0m root:test_welcome_screen.py:96 ==================NAVIGATING TO PLANS PICKER SCREEN==========================
+[32mINFO    [0m root:test_welcome_screen.py:100 ==================VERIFYING NAVIGATION TO PLANS PICKER SCREEN==========================
+[1m[31mERROR   [0m root:test_welcome_screen.py:106 ==================NAVIGATION FROM WELCOME TO PLANS PICKER FAILED==========================

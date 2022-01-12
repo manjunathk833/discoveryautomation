@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_welcome_screen.py:141 ==================VERIFYING WELCOME SCREEN==========================
+[32mINFO    [0m root:test_welcome_screen.py:144 ==================IN WELCOME SCREEN==========================
+[32mINFO    [0m root:test_welcome_screen.py:151 ==================NAVIGATING BACK FROM WELCOME SCREEN==========================
+[32mINFO    [0m root:test_welcome_screen.py:153 ==================APP EXITED==========================

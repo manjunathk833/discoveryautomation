@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_welcome_screen.py:92 ==================IN WELCOME SCREEN==========================

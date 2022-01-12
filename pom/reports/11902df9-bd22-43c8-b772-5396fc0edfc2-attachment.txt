@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_welcome_screen.py:12 ==================TESTCASE 1 STARTED==========================
+[32mINFO    [0m root:test_welcome_screen.py:14 ==================VERIFYING WELCOME SCREEN==========================
+[32mINFO    [0m root:test_welcome_screen.py:17 ==================TEST CASE PASSED==========================
