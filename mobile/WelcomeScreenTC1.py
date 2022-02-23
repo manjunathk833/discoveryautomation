@@ -32,8 +32,8 @@ CAPS = {
     'platformName': 'Android',
     'deviceName': 'Redmi',
     'automationName': 'UiAutomator2',
-    'appPackage': 'com.discovery.discoveryplus.mobile',
-    'appActivity': 'com.discovery.plus.presentation.activities.LaunchActivity',
+    'appPackage': 'com.discoveryplus.mobile.android',
+    'appActivity': 'com.discoveryplus.android.mobile.DPlusMainActivity',
     'noReset': 'true'
 }
 

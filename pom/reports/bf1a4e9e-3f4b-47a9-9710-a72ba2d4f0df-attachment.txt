@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_welcome_screen.py:117 ==================IN WELCOME SCREEN==========================
+[32mINFO    [0m root:test_welcome_screen.py:121 ==================NAVIGATING TO SIGN IN SCREEN==========================
+[32mINFO    [0m root:test_welcome_screen.py:127 ==================NAVIGATION TO SIGN IN SCREEN SUCCESSFUL==========================

@@ -61,7 +61,7 @@ def test_welcome_screen_elements(driver):
     logger.info("==================VERIFYING WELCOME PRICE==========================")
     welcome_price_text = welcomescreen.verify_welcome_price()
     # TODO report/fix below assertion
-    if welcome_price_text == 'Watch 7 days free, then as low as $5.99.':
+    if welcome_price_text == 'Watch 7 days free, then as low as $4.99.':
         logger.info("==================WELCOME PRICE DISPLAYED CORRECTLY==========================")
         assert True
     else:
@@ -99,7 +99,7 @@ def test_welcome_to_plansview_navigation(driver):
     plansscreen = PlansView(driver)
     logger.info("==================VERIFYING NAVIGATION TO PLANS PICKER SCREEN==========================")
     plans_text = plansscreen.verify_choose_plan()
-    if plans_text == 'Choose Youre Plan':
+    if plans_text == 'Choose Your Plan':
         logger.info("==================NAVIGATION FROM WELCOME TO PLANS PICKER SUCCESSFUL==========================")
         assert True
     else:

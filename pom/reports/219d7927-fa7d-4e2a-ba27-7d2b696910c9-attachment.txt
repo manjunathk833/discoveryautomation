@@ -1,0 +1,11 @@
+[32mINFO    [0m root:test_welcome_screen.py:12 ==================TESTCASE 1 STARTED==========================
+[32mINFO    [0m root:test_welcome_screen.py:14 ==================VERIFYING WELCOME SCREEN==========================
+[32mINFO    [0m root:test_welcome_screen.py:17 ==================BACKGROUND IMAGE PASSED==========================
+[32mINFO    [0m root:test_welcome_screen.py:25 ==================VERIFYING LOGO IMAGE==========================
+[32mINFO    [0m root:test_welcome_screen.py:29 ==================LOGO IMAGE PASSED==========================
+[32mINFO    [0m root:test_welcome_screen.py:37 ==================VERIFYING STREAM TITLE TEXT==========================
+[32mINFO    [0m root:test_welcome_screen.py:41 ==================STREAM TITLE TEXT FOUND==========================
+[32mINFO    [0m root:test_welcome_screen.py:48 ==================VERIFYING WELCOME DESCRIPTION==========================
+[32mINFO    [0m root:test_welcome_screen.py:52 ==================WELCOME DESCRIPTION DISPLAYED CORRECTLY==========================
+[32mINFO    [0m root:test_welcome_screen.py:61 ==================VERIFYING WELCOME PRICE==========================
+[1m[31mERROR   [0m root:test_welcome_screen.py:70 ==================WELCOME PRICE DETAILS FAILED==========================
