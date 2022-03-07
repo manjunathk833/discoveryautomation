@@ -1,7 +1,7 @@
 """
 TestRail integration
 """
-import dotenv, testrail, os, Conf_Reader
+import testrail, os, Conf_Reader
 
 
 
